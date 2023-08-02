@@ -6,7 +6,7 @@ import {SiLeetcode} from 'react-icons/si'
 
 const SocialLinks = () => {
   return (
-    <div className=' hidden lg:flex flex-col top-[35%] left-0 fixed'>
+    <div className='  lg:flex flex-col top-[35%] left-0 fixed'>
         <ul>
             <li className='flex justify-between items-center w-40 h-12 px-4 bg-gray-500 text-white  duration-300 ml-[-100px] hover:rounded-md hover:ml-[-10px]'>
                 <a href="https://www.linkedin.com/in/saurabh-modanwal-b13a29202/" className=' flex justify-between items-center w-full' target="_blank"  rel="noreferrer">
